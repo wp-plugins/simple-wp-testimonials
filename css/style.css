@@ -1,0 +1,127 @@
+/* widgets css */
+.brochr .testi-img {float: left; margin-right: 20px; margin-top: 15px;}
+.brochr .title {font-weight: bold; text-transform: uppercase;}
+.testimonials-list li {
+    background: url("images/ul-li-bg.jpg") repeat-x scroll left top #DEDEDE;
+    border-radius: 5px;
+    box-shadow: 1px 2px 6px 1px #BDBDBD;
+    height: 82px;
+    margin-bottom: 23px;
+    margin-left: 5px;
+    padding: 1px 10px 10px;
+    width: 252px;
+}
+
+.brochr .testi-img img {border: 3px solid #CCCCCC;
+    border-radius: 10px;
+    width: 75px;
+    height: 62px;
+}
+
+.brochr .testiname, .brochr .testidestination {
+    text-align: right;
+}
+
+.brochr .testidestination {
+font-size: 11px;
+color: #FF0000;
+}
+  
+.brochr .testiname {
+    color: #008000;
+}
+
+/* short code css*/ 
+
+.testi .imgpic {
+    width: 50%;
+}
+
+
+.box-con h2 {
+    text-align: left;
+}
+.box-con h2 {
+    color: #2B2B2B;
+    font-size: 30px;
+    font-weight: normal;
+    margin-top: 10px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+/*.boxoddpost, .boxevenpost {
+    padding: 20px 0;
+}*/
+.boxevenpost {
+    background: none repeat scroll 0 0 #FDFDFD;
+}
+
+.trr {
+    text-align: right;
+}
+.cls {
+    clear: both;
+}
+
+.boxevenpost .imgpic {
+    float: left;
+}
+.imgpic {
+    float: left;
+    margin-bottom: 0;
+    margin-right: 1%;
+    text-align: center;
+    width: 30%;
+}
+
+.play object object, .testi .imgpic iframe, .vvddio iframe {
+    background: none repeat scroll 0 0 #CCCCCC;
+    border: medium none;
+    padding: 4px;
+}
+.testi .box-con {
+    width: 48%;
+}
+.boxevenpost .box-con {
+    float: right;
+}
+.box-con {
+    float: right;
+    width: 69%;
+}
+
+.testimoiamge, .testconte {
+    float: left;
+    margin-bottom: 20px;
+}
+.testimoiamge {
+    margin-right: 20px;
+    width: 70px;
+}
+
+.testimoiamge img {
+    border: 3px solid #CCCCCC;
+    border-radius: 43px;
+}
+.blue {
+    color: #51DBFF;
+}
+
+small {
+    font-size: smaller;
+}
+.site:before {
+     width: 222px;
+}
+
+.box-con p {
+    margin-bottom: 24px;
+     text-align: justify;
+}
+.sign-main {
+    width: 800px;
+}
+.boxoddpost .imgpic {
+    float: right;
+}
