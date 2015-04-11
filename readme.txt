@@ -22,7 +22,6 @@ Simple WP Testimonials is an easy to use plugin that allows admin to add Testimo
 
 
 
-
 Features:
 
 * Simple & Flat Design.
@@ -30,7 +29,6 @@ Features:
 * Using Custom Post Type - Testimonial.
 * Shortcode for "Testimonial List".
 * Widgets and Testimonial Slider is Comming Soon in Next Version.
-
 
 
 Shortcode : 
