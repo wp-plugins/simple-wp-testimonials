@@ -9,7 +9,6 @@ function new_testimonial_shortcode($atts, $content = null){
 			), $atts ) );
 			
 $output = '';
-$output .= $video; 
 $argsquery = array(
 	'post_type' => 'testimonial-post',
 	'posts_per_page' => -1,

@@ -59,7 +59,9 @@ See documentation at http://www.dswebsolutons.in/
 
 == Screenshots ==
 
-
+1. Add the Testimonials Page.
+2. Admin List of Testimonials.
+3. Frontend Testimonials List.
 
 == Changelog == 
 
