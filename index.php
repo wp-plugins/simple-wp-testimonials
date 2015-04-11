@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Simple WP Testimonials.
  * Plugin URI: http://dswebsolutions.in
- * Description: Simple Testimonials is an easy to use plugin that allows admin to add Testimonials to the sidebar, as a widget, or to embed them into a Page or Post using the shortcode. The Simple Testimonials plugin also allows you to insert a list of all Testimonials. Simple Testimonials allows you to include an image with each testimonial - this is a great feature for adding a photo of the testimonial author. Add Testimonials to Website Testimonials using the shortcode : [testimonials].
+ * Description: Simple WP Testimonials is a plugin that allows you to manage and display testimonials for your blog.
  * Version: 1.0.0
  * Author: Deepak Shrama
  * Author URI: http://dswebsolutions.in
