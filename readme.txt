@@ -23,6 +23,7 @@ Simple WP Testimonials is an easy to use plugin that allows admin to add Testimo
 
 
 Features:
+
 * Simple & Flat Design.
 * HTML5 & CSS3.
 * Using Custom Post Type - Testimonial.
@@ -31,6 +32,7 @@ Features:
 
 
 Shortcode : 
+
 * You can Add testimonial Author Name, Testimonial Author Destination, Author Youtube Video in Admin site and Show the Testimonials List using below shortcodes :
 * Default Shortcode [testimonials].
 * If You Show Testimonials Title than Add Shortcode in Page [testimonials title="yes"]
