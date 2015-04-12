@@ -1,5 +1,5 @@
 /* widgets css */
-.brochr .testi-img {float: left; margin-right: 20px; margin-top: 15px;}
+.brochr .testi-img {float: left; margin-right: 20px;}
 .brochr .title {font-weight: bold; text-transform: uppercase;}
 .testimonials-list li {
     background: url("images/ul-li-bg.jpg") repeat-x scroll left top #DEDEDE;
@@ -13,9 +13,8 @@
 }
 
 .brochr .testi-img img {border: 3px solid #CCCCCC;
-    border-radius: 10px;
-    width: 75px;
-    height: 62px;
+     width: 85px;
+	 margin-left:10px;
 }
 
 .brochr .testiname, .brochr .testidestination {
@@ -125,3 +124,10 @@ small {
 .boxoddpost .imgpic {
     float: right;
 }
+
+
+
+.testimonial-slidebox ul li{position:relative;}
+.testimonial-slidebox .next, .testimonial-slidebox .previous{position:absolute; z-index:2; display:block; width:21px; height:21px;top:85px;}
+.testimonial-slidebox .next{right:0; background:url("../images/slidebox_next.png") no-repeat left top; cursor:pointer;}
+.testimonial-slidebox .previous{background:url("../images/slidebox_previous.png") no-repeat left top; cursor:pointer;}
