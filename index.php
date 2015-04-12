@@ -11,6 +11,7 @@
  
  function plugin_testimonial_themes_css() {
 	wp_enqueue_style( 'testimonials-css', plugin_dir_url( __FILE__ ) . 'css/style.css' );
+	wp_enqueue_script( 'jcarousellite-js', plugin_dir_url( __FILE__ ) . 'js/jcarousellite_1.0.1c5.js' );
 }
 
 add_action( 'wp_head', 'plugin_testimonial_themes_css' );
@@ -18,7 +19,7 @@ add_action( 'wp_head', 'plugin_testimonial_themes_css' );
 
  require_once(dirname(__FILE__) . '/admin-functions.php'); 
   require_once(dirname(__FILE__) . '/shortcode.php'); 
-  
+  require_once(dirname(__FILE__) . '/widgets.php'); 
   require_once(dirname(__FILE__) . '/author-image.php'); 
  
  if( class_exists( 'ahFeaturedImages' ) ) {
