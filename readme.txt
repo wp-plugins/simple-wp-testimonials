@@ -28,7 +28,9 @@ Features:
 * HTML5 & CSS3.
 * Using Custom Post Type - Testimonial.
 * Shortcode for "Testimonial List".
-* Widgets and Testimonial Slider is Comming Soon in Next Version.
+* Testimonial Slider Widgets. 
+* Horizontal and Vertical Slide
+
 
 
 Shortcode : 
@@ -62,6 +64,8 @@ See documentation at http://www.dswebsolutons.in/
 1. Add the Testimonials Page.
 2. Admin List of Testimonials.
 3. Frontend Testimonials List.
+4. Widgets Manage.
+5. Testimonial Slider in Sidebar.
 
 == Changelog == 
 
